@@ -1,0 +1,16 @@
+id: ID234D942
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:04:33.497243
+last_modified: 2023-02-08 16:04:33.497353
+source_metadata:
+  title: 'Viśeṣamitra: Vinayasaṃgraha'
+  language: sa
+bases:
+  98B4:
+    base_file: 98B4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
